@@ -1,4 +1,4 @@
-﻿Crime Detail,Year,Province,Number of Cases
+Crime Detail,Year,Province,Number of Cases
 Theft,2023,Kigali City,31285
 Assault and Battery,2023,Kigali City,24816
 Narcotic Drugs,2023,Kigali City,4265
@@ -67,25 +67,25 @@ Theft,2019,Northern,9447
 Assault and Battery,2019,Kigali City,15149
 Assault and Battery,2019,Eastern,15149
 Assault and Battery,2019,Southern,13894
-Ordinary Cases,2015,All,97288
-Commercial Cases,2015,All,4031
-Administrative Cases,2015,All,1136
-Ordinary Cases (Judged),2015,All,85374
-Commercial Cases (Judged),2015,All,3496
-Administrative Cases (Judged),2015,All,1031
-Ordinary Cases,2014,All,97288
-Commercial Cases,2014,All,4031
-Administrative Cases,2014,All,1136
-Ordinary Cases (Judged),2014,All,72825
-Commercial Cases (Judged),2014,All,3716
-Administrative Cases (Judged),2014,All,906
-Theft,2014,All,6845
-Assault and Battery,2014,All,4063
-Rape,2014,All,1801
-Drug Abuse and Trafficking,2014,All,1674
-Murder,2014,All,1022
-Defilement of Children,2014,All,800
-Abduction,2014,All,696
-Fraud,2014,All,689
-Suicide,2014,All,636
-Others,2014,All,4792
+Ordinary Cases,2015,Southern,97288
+Commercial Cases,2015,Eastern,4031
+Administrative Cases,2015,Kigali City,1136
+Ordinary Cases (Judged),2015,Eastern,85374
+Commercial Cases (Judged),2015,Northern,3496
+Administrative Cases (Judged),2015,Northern,1031
+Ordinary Cases,2014,Northern,97288
+Commercial Cases,2014,Eastern,4031
+Administrative Cases,2014,Western,1136
+Ordinary Cases (Judged),2014,Northern,72825
+Commercial Cases (Judged),2014,Western,3716
+Administrative Cases (Judged),2014,Kigali City,906
+Theft,2014,Eastern,6845
+Assault and Battery,2014,Southern,4063
+Rape,2014,Eastern,1801
+Drug Abuse and Trafficking,2014,Kigali City,1674
+Murder,2014,Kigali City,1022
+Defilement of Children,2014,Kigali City,800
+Abduction,2014,Northern,696
+Fraud,2014,Northern,689
+Suicide,2014,Northern,636
+Others,2014,Southern,4792
